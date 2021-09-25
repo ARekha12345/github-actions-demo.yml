@@ -38,6 +38,6 @@ jobs:
           echo is java installed?
           java --version
           echo
-          is Git installed?
+          echo is Git installed?
           git --version
           
